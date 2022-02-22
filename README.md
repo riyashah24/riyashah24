@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riyashah24
+- 👋 Hi, I’m Riya
 
 <!---
 riyashah24/riyashah24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
